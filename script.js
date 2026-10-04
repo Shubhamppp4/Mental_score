@@ -7,7 +7,7 @@
  * Change ONLY this constant if your FastAPI server
  * runs somewhere else.
  */
-const API_URL = "https://mental-score-8ata.onrender.com/";
+const API_URL = "https://mental-score-8ata.onrender.com";
 
 
 // =========================================================
